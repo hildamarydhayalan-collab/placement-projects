@@ -1,0 +1,12 @@
+*{
+    margin: auto;
+    background-color: rgba(193, 235, 195, 0.781);
+    background-attachment: fixed;
+    background-size: cover;
+}
+.btn button{
+    padding: 60px;
+    background-color: rgba(189, 138, 236, 0.774);
+    border-radius: 7px;
+    text-align: center;
+}
