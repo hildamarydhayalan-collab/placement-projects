@@ -1,0 +1,38 @@
+*{
+    margin: auto;
+   
+}
+.bird{
+    display: flex;
+    justify-content: space-around;
+}
+.bird_image{
+    margin-top: 70px;
+}
+.bird_detalis{
+    margin-top: 70px;
+}
+.bird_video{
+    margin-top: 20px;
+}
+.bird_image audio{
+margin-top: 5px;
+}
+
+.pa{
+    display: flex;
+    justify-content: space-around;
+}
+.parrot_image{
+    margin-top: 70px;
+}
+.parrot_detalis{
+    margin-top: 70px;
+}
+.parrot_video{
+    margin-top: 20px;
+}
+.parrot_image audio{
+margin-top: 5px;
+
+}
